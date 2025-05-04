@@ -1,0 +1,6 @@
+2025 MAY 03
+    [ ] Create a basic NodeJs that knows if the NFC reader is connected.
+        [ ] Setup app.js
+        [ ] Research/Import some npm library
+        [ ] Console log the device
+        [ ] Console log a read event

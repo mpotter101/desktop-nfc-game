@@ -1,0 +1,10 @@
+# Exclude folder
+node_modules/
+node_modules
+dist/bundle.js
+.idea/*
+yarn.lock
+yarn-error.log
+npm-debug.log
+*.trace
+**/*.png
