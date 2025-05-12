@@ -1,6 +1,23 @@
+Backlog
+    ( ) Setup Basic web UI for controlling app
+        [ ] Set read mode or write mode on server
+        [ ] Allow web app to send what data to write to the card
+        [ ] Store a list of loaded monsters on the app
+        [ ] Allow web to get list of loaded monsters
+        [ ] Won't store repeat monsters
+    ( ) Update a loaded card's data
+        [ ] Modify loaded json
+        [ ] re-write card that json originally belonged to
+        [ ] Do no allow other cards to be overwritten
+        [ ] If a monster is already loaded in, tapping the card again at any point will update the card.
+
+2025 MAY 12
+    [v] Figure out how to control reading and writing cards in an easy way
+
 2025 MAY 03
-    [ ] Create a basic NodeJs that knows if the NFC reader is connected.
-        [ ] Setup app.js
-        [ ] Research/Import some npm library
-        [ ] Console log the device
-        [ ] Console log a read event
+    [x] Create a basic NodeJs that knows if the NFC reader is connected.
+        [x] Setup app.js
+        [x] Research/Import some npm library
+        [x] Console log the device
+        [x] Console log a read event
+    [x] Write JSON to card
