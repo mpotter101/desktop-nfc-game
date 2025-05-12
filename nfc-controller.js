@@ -1,7 +1,6 @@
 import { NFC } from 'nfc-pcsc';
 import nfcCard from 'nfccard-tool';
 
-
 const MODE_READ = "read";
 const MODE_WRITE = "write";
 
@@ -71,7 +70,6 @@ export default class {
 
     async ReadNdefJson(reader)
     {
-        //var reader = this.reader;
         try {
 
             /**

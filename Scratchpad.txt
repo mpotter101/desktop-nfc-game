@@ -1,0 +1,5 @@
+Making new cards:
+    We need:
+        A config for each monster
+        to know which monster we are making
+        the name of the new monster

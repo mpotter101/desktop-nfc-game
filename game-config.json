@@ -1,0 +1,37 @@
+{
+    "comments": "Holds static information on monsters and moves.",
+    "monsters": [
+        {
+            "name": "scruffhauser",
+            "vitality": 10, "martial": 3, "magic": 0, "guts": 7,
+            "moveList": [0, 1]
+        },
+        {
+            "name": "chompette",
+            "vitality": 7, "martial": 2, "magic": 2, "guts": 5,
+            "moveList": [0, 2, 3]
+        }
+    ],
+    "moves": [
+        {
+            "id": 0,
+            "name": "Strike",
+            "power": 3, "accuracy": 1, "complexity": 1, "energy": 3
+        },
+        {
+            "id": 1,
+            "name": "Dropkick",
+            "power": 10, "accuracy": 1.2, "complexity": 13, "energy": 10
+        },
+        {
+            "id": 2,
+            "name": "Bite",
+            "power": 7, "accuracy": 0.8, "complexity": 3, "energy": 5
+        },
+        {
+            "id": 3,
+            "name": "Chomp",
+            "power": 14, "accuracy": 0.8, "complexity": 7, "energy": 8
+        }
+    ]
+}

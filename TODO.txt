@@ -1,4 +1,8 @@
 Backlog
+    ( ) Setup monster manager object
+        [ ] Loads static monster data from config
+        [ ] When a card is read, it stores the read card
+        [ ] Doesn't store repeat monsters
     ( ) Setup Basic web UI for controlling app
         [ ] Set read mode or write mode on server
         [ ] Allow web app to send what data to write to the card
