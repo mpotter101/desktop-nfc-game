@@ -71,10 +71,10 @@ export default class {
     async Setup()
     {
         await this.LoadConfig();
-        this.ProcessArgs();
+        this.ProcessLaunchArgs();
     }
 
-    ProcessArgs()
+    ProcessLaunchArgs()
     {
         if (global.__args)
         {

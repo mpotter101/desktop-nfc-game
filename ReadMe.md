@@ -10,7 +10,7 @@ This app uses `nfc-pcsc` and `nfccard-tool` to read nfc data from cards. You'll 
 
 `npm install` to download node modules.
 
-`node app.js` to get started.
+`node app.js` to get started. Make sure the nfc reader is plugged in before starting the app.
 
 ## How To Use
 ### Making monsters
